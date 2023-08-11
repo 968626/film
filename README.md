@@ -1,37 +1,26 @@
 # SpringgBoot+vue影院售票系统
 
-#### 介绍
-SpringgBoot+vue影院售票系统
+**项目背景与目标：**
+影院作为娱乐文化领域的重要一环，需要一个高效的售票系统来满足观众的需求。基于这一目标，我们团队决定开发一个结合Spring Boot和Vue的智能影院售票系统，旨在提供便捷的电影购票体验。
 
-#### 软件架构
-软件架构说明
+**功能特点：**
+1️⃣ 电影浏览：观众可以浏览正在上映的电影列表、详细信息以及放映时间表。
 
+2️⃣ 选座购票：观众可以通过座位图选择座位，实时查看座位情况，完成购票流程。
 
-#### 安装教程
+3️⃣ 订单管理：观众可以查看已购买的电影票订单，方便进行订单管理和查阅。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+4️⃣ 影院管理：管理员可以管理影院信息、电影信息、排片信息等。
 
-#### 使用说明
+**技术与工具：**
+1️⃣ 后端：使用Spring Boot框架开发后端逻辑，实现业务逻辑和数据库管理。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2️⃣ 前端：采用Vue.js框架构建前端页面，实现与用户的交互界面。
 
-#### 参与贡献
+3️⃣ 数据库：使用MySQL数据库存储电影、订单和座位信息，实现数据的持久化存储。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+4️⃣ 接口通信：前后端通过RESTful API进行数据传输和交互。
+ **
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 源码小偿+qq1755320514
+** 
